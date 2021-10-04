@@ -1,0 +1,13 @@
+This is not going to be considered because it was configured: itemReader.setLinesToSkip(2);
+This also not be considered.
+00001|One|Number One
+00002|Two|Number Two
+00003|Three|Number Three
+00004|Four|Numbre Four
+00005|Five|Number Five
+00006|Six|Number Six
+00007|Seven|Number Seven
+00008|Eight|Number Eight
+00009|Nine|Number Nine
+00010|Ten|Number Ten
+00011|Eleven|Number Eleven

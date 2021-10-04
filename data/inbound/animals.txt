@@ -1,0 +1,8 @@
+This is not going to be considered because it was configured: itemReader.setLinesToSkip(2);
+This also not be considered.
+00001|Dog|Is a domesticated descendant of the grey wolf
+00002|Cat|Is a domestic species of small carnivorous mammal
+00003|Lion|Is a large cat of the genus Panthera native to Africa and India
+00004|Dolphin|is the common name of aquatic mammals within the infraorder Cetacea
+00005|Puma|is a wild animal that is a member of the cat family
+00006|Wolf|is a large canine native to Eurasia and North America

@@ -1,0 +1,8 @@
+This is not going to be considered because it was configured: itemReader.setLinesToSkip(2);
+This also not be considered.
+00001|TV|Is a telecommunication medium used for transmitting moving images in monochrome (black and white), or in color
+00002|Fan|Is a powered machine used to create a flow of air
+00003|Loudspeaker|Is an electroacoustic transducer
+00004|Computer|Is a machine that can be programmed to carry out sequences of arithmetic or logical operations automatically
+00005|Radio|Is the technology of signaling and communicating using radio waves
+00006|Antenna|Is the interface between radio waves propagating through space and electric currents moving in metal conductors
